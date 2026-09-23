@@ -17,6 +17,11 @@ Bar Ace is an enterprise-grade, offline-first cross-platform mobile application 
 4. **Offline-First Synchronization:** Local-first architecture powered by delta-based background synchronization upon network restoration.
 5. **Analytics & Performance Tracking:** Deep-dive dashboards measuring sub-topic precision, timing breakdown, and score trajectories.
 
+## Docs
+- [Privacy Policy](privacy-policy.md)
+- [EULA](eula.md)
+- [Terms of Use](terms-of-use.md)
+  
 ## License
 
 Copyright © 2026 Abraham Doe. All rights reserved.  
