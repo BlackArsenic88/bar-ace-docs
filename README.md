@@ -19,5 +19,5 @@ Bar Ace is an enterprise-grade, offline-first cross-platform mobile application 
 
 ## License
 
-Copyright © 2026 Bar Ace Inc. All rights reserved.  
-Unlawful copying, distribution, or modifications of this software via any medium is strictly prohibited without explicit written consent from Bar Ace Inc.
+Copyright © 2026 Abraham Doe. All rights reserved.  
+Unlawful copying, distribution, or modifications of this software via any medium is strictly prohibited without explicit written consent.
