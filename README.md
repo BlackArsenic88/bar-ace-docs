@@ -18,9 +18,9 @@ Bar Ace is an enterprise-grade, offline-first cross-platform mobile application 
 5. **Analytics & Performance Tracking:** Deep-dive dashboards measuring sub-topic precision, timing breakdown, and score trajectories.
 
 ## Docs
-- [Privacy Policy](privacy-policy.md)
+- [Privacy Policy](privacy_policy.md)
 - [EULA](eula.md)
-- [Terms of Use](terms-of-use.md)
+- [Terms of Use](terms_of_use.md)
   
 ## License
 
